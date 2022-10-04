@@ -1,2 +1,2 @@
 # Practice
-GFG Questions
+GFG and LeetCode Questions
