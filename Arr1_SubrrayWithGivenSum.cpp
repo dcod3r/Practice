@@ -29,6 +29,7 @@ void subarraySum(int arr[], int n, int sum)
             cs = cs + arr[end++];
     }
 }
+
 int main()
 {
     int A[] = {10,3,5,8,6,12,20,15,31};
