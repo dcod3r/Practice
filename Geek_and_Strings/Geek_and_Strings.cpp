@@ -42,7 +42,6 @@ public:
      return ans;// code here
     }
 };
-
 //{ Driver Code Starts.
 
 int main(){
